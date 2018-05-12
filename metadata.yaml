@@ -1,0 +1,31 @@
+_repo: Ellen-Middleton-A-Tale_31180
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fullerton, Georgiana
+    aliases:
+    - Fullerton, Georgiana Charlotte Leveson-Gower
+    - Fullerton, Lady Georgiana
+    - Leveson-Gower, Georgiana Charlotte
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '2774'
+    url: http://www.gutenberg.org/2009/agents/2774
+    wikipedia: http://en.wikipedia.org/wiki/Georgiana_Fullerton
+description: ''
+gutenberg_issued: '2010-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Religious fiction'
+title: Ellen Middleton—A Tale
+url: http://www.gutenberg.org/ebooks/31180
